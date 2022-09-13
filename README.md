@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a android application with a mate
+
+- 🔭 I’m currently working on a android application with a mate
+- 👀 I’m interested in Big Data
+
+
+![untitled-2](https://user-images.githubusercontent.com/68796664/190006189-a849392c-a7af-41fd-a85d-703fb7d32d96.gif)
