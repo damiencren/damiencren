@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on a android application with a mate
+- 🔭 I’m currently working on a android application
 - 👀 I’m interested in Big Data
 
 
