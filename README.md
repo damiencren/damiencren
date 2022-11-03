@@ -1,5 +1,5 @@
-### Hi there i'm Damien Cren 👋
-
+<h3 align="center"> Hewo, I'm Damien Cren 👋</h3>
+<h2 align="center"> A 18 years old Programmer and Developer</h2>
 <!--
 **damiencren/damiencren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
