@@ -16,7 +16,9 @@
      + Extra: You can get access to my work and projects such as
              <br>snippets or files for DC Bots, web, apps, etc... here -> [Patreon.babyico.xyz](https://Patreon.babyico.xyz)
 -->
-<br/>  
+<br/> 
+
+<a href=#><img src="contributions.svg"></a>
 
 ## My Skills 💢
 <table><tr><td valign="top" width="33%">
