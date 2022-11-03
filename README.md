@@ -18,7 +18,6 @@
 -->
 <br/> 
 
-<a href=#><img src="contributions.svg"></a>
 
 ## My Skills 💢
 <table><tr><td valign="top" width="33%">
@@ -61,6 +60,9 @@
 </div>
   
 </td></tr></table>   
+
+
+<a href=#><img src="contributions.svg"></a>
 
 <h4 align="center"><a href="https://github.com/damiencren"><img src="https://img.shields.io/github/license/damiencren/damiencren?color=bada55&logo=unlicense&logoColor=bada55&style=for-the-badge"></a>
   <br><a>©damiencren</a></h4>
