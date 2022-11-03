@@ -1,4 +1,4 @@
-<h3 align="center"> Hewo, I'm Damien Cren 👋</h3>
+<h3 align="center"> Hello, I'm Damien Cren 👋</h3>
 <h2 align="center"> A 18 years old Programmer and Developer</h2>
 
 </p>
@@ -58,6 +58,8 @@
 <a href="https://www.adobe.com/fr/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" height="50" /></a>
 </div>
 
+---
+
 <h4 align="center"><a href="https://github.com/damiencen"><img src="https://img.shields.io/github/license/damiencren/damiencren?color=bada55&logo=unlicense&logoColor=bada55&style=for-the-badge"></a>
-  <br><a>©damienncre</a></h4>
+  <br><a>©damiencren</a></h4>
 <!--![untitled-2](https://user-images.githubusercontent.com/68796664/190006189-a849392c-a7af-41fd-a85d-703fb7d32d96.gif)
