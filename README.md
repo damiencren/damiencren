@@ -57,8 +57,8 @@
 <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ps" alt="Photoshop" height="50" /></a>
 <a href="https://www.adobe.com/fr/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" height="50" /></a>
 </div>
-
----
+  
+</td></tr></table>   
 
 <h4 align="center"><a href="https://github.com/damiencen"><img src="https://img.shields.io/github/license/damiencren/damiencren?color=bada55&logo=unlicense&logoColor=bada55&style=for-the-badge"></a>
   <br><a>©damiencren</a></h4>
