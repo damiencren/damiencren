@@ -34,10 +34,8 @@
 
 ### Backend  
 <div align="center">
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Bash" height="50" /></a>  
 <a href="https://www.discord.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bots" alt="discordjs" height="50" /></a> 
 <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cs" alt="C#" height="50" /></a>
@@ -54,11 +52,12 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>
 <a href="https://www.figma.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
 <a href="https://developer.android.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=idea" alt="InteliJ" height="50" /></a>
 <a href="https://www.eclipse.org" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="50" /></a>
 <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ps" alt="Photoshop" height="50" /></a>
 <a href="https://www.adobe.com/fr/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" height="50" /></a>
 </div>
 
+<h4 align="center"><a href="https://github.com/damiencen"><img src="https://img.shields.io/github/license/damiencren/damiencren?color=bada55&logo=unlicense&logoColor=bada55&style=for-the-badge"></a>
+  <br><a>©damienncre</a></h4>
 <!--![untitled-2](https://user-images.githubusercontent.com/68796664/190006189-a849392c-a7af-41fd-a85d-703fb7d32d96.gif)
