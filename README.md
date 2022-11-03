@@ -59,10 +59,7 @@
 <a href="https://www.adobe.com/fr/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" height="50" /></a>
 </div>
   
-</td></tr></table>   
-
-
-<a href=#><img src="contributions.svg"></a>
+</td></tr></table> 
 
 <h4 align="center"><a href="https://github.com/damiencren"><img src="https://img.shields.io/github/license/damiencren/damiencren?color=bada55&logo=unlicense&logoColor=bada55&style=for-the-badge"></a>
   <br><a>©damiencren</a></h4>
