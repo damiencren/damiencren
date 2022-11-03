@@ -1,7 +1,7 @@
 <h3 align="center"> Hewo, I'm Damien Cren 👋</h3>
 <h2 align="center"> A 18 years old Programmer and Developer</h2>
 
-</p> -->
+</p>
   
 - 🔭 I’m currently working on discord bots and android applications.<br>
 
@@ -40,16 +40,25 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Bash" height="50" /></a>  
 <a href="https://www.discord.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bots" alt="discordjs" height="50" /></a> 
+<a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cs" alt="C#" height="50" /></a>
+<a href="https://www.mysql.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySql" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
-D
+  
 ### DevOps & Engines  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" /></a>  
 <a href="https://unity.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity" alt="Unity" height="50" /></a> 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>
+<a href="https://www.figma.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
+<a href="https://developer.android.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=idea" alt="InteliJ" height="50" /></a>
+<a href="https://www.eclipse.org" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="50" /></a>
+<a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ps" alt="Photoshop" height="50" /></a>
+<a href="https://www.adobe.com/fr/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" height="50" /></a>
 </div>
 
-![untitled-2](https://user-images.githubusercontent.com/68796664/190006189-a849392c-a7af-41fd-a85d-703fb7d32d96.gif)
+<!--![untitled-2](https://user-images.githubusercontent.com/68796664/190006189-a849392c-a7af-41fd-a85d-703fb7d32d96.gif)
