@@ -61,5 +61,5 @@
   
 </td></tr></table> 
 
-<h4 align="center"><a href="https://github.com/damiencren"><img src="https://img.shields.io/github/license/damiencren/damiencren?color=bada55&logo=unlicense&logoColor=bada55&style=for-the-badge"></a>
+<h4 align="center"><a href="https://github.com/damiencren"><img src="https://img.shields.io/github/license/damiencren/damiencren?color=bada55&logo=mit&logoColor=bada55&style=for-the-badge"></a>
   <br><a>©damiencren</a></h4>
