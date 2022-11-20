@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on discord bots and android applications.<br>
 
-- 🌱 I’m currently learning and improving app development and languages(js,kotlin,c#,etc...).<br>
+- 🌱 I’m currently learning and improving app development and languages(js,kotlin,etc...).<br>
 
 <!--
 - 👨‍💻 All of My Upcoming and Current Projects are and will be available <a href="https://babyico.xyz/" style="color: #F786AE; font-weight: bold;">Here</a>
